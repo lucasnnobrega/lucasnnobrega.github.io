@@ -1,0 +1,6 @@
+.ci/deploy_key_github
+
+build/
+
+*.swp
+*.swo
